@@ -1,0 +1,7 @@
+#createProviderModal .form-control:valid {
+  background-image: none;
+}
+
+#createProviderBtn {
+  margin-right: 0.5rem;
+}
